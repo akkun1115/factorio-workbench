@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Factorio Workbench",
   "short_name": "Factorio WB",
-  "description": "Factorio通常版の製造辞典と生産比率・材料ツリー・一括生産計画",
+  "description": "Factorio通常版の製造辞典・生産比率・小技とTips集・材料ツリー・一括生産計画",
   "lang": "ja",
   "dir": "ltr",
   "start_url": "./",
