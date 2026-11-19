@@ -1,5 +1,5 @@
 /* Factorio Workbench offline cache. Increment VERSION for every published release. */
-const VERSION = 'v0.21.0';
+const VERSION = 'v0.22.0';
 const CACHE = 'factorio-workbench-' + VERSION;
 const PREFIX = 'factorio-workbench-';
 const BASE = new URL('./', self.location.href);
